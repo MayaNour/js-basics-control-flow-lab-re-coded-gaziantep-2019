@@ -8,7 +8,7 @@ function scuberGreetingForFeet(feetValue){
     return 'This one is on me!';
 }
 
-function ternaryCheckCity(){
+function ternaryCheckCity(city){
   // Write your code here!
   
 }
