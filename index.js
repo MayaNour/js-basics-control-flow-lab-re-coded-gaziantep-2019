@@ -4,7 +4,7 @@ function scuberGreetingForFeet(feetValue){
     return 'No can do.';
   else if(feetValue > 2000)
     return 'I will gladly take your thirty bucks.';
-  else 
+  else if(feetValue >= )
 }
 
 function ternaryCheckCity(){
