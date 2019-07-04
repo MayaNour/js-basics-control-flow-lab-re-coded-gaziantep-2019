@@ -1,6 +1,6 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(feetValue){
   // Write your code here!
-  
+  if(feetValue >= 2500)
 }
 
 function ternaryCheckCity(){
