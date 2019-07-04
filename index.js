@@ -12,7 +12,7 @@ function ternaryCheckCity(city){
   // Write your code here!
   let message;
   
-  city === 'NYC'? (message = 'Ok, sounds good.'):(message = 'Ok, sounds good.')
+  city === 'NYC'? (message = 'Ok, sounds good.'):(message = 'No go.')
 }
 
 function switchOnCharmFromTip(){
