@@ -12,6 +12,7 @@ function ternaryCheckCity(city){
   // Write your code here!
   let message;
   
+  city === 
 }
 
 function switchOnCharmFromTip(){
