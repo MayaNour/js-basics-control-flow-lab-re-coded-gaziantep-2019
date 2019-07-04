@@ -17,7 +17,7 @@ function ternaryCheckCity(city){
   return message;
 }
 
-function switchOnCharmFromTip(){
+function switchOnCharmFromTip(tipValue){
   // Write your code here!
   
 }
